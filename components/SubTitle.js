@@ -8,7 +8,7 @@ export function SubTitle(props) {
         <code className={styles.code}>pages/{props.page}.js</code>
       </p>
 
-      {props.page} page
+      {props.page} Page
     </>
   )
 }
